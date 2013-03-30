@@ -201,9 +201,8 @@ if [ -s ~/.nvm/nvm.sh ]; then
     nvm use 0.8.19
 fi
 
-## ------------------------------
-## -- 3) User-customized code  --
-## ------------------------------
-
-## Define any user-specific variables you want here.
-source ~/.bashrc_custom
+# 2.5) git
+alias ga='git add'
+alias gc='git commit -m'
+alias gst='git status'
+alias gp='git pull'
