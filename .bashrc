@@ -149,7 +149,7 @@ fi
 # See: http://www.tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html
 shopt -s histappend
 # See:  http://www.ukuug.org/events/linux2003/papers/bash_tips/
-PS1="\[\033[1;33m\][\u@\h:\w]$\[\033[0m\]"
+PS1="\[\033[1;36m\][\u@\h:\w]$\[\033[0m\]"
  
 ## -----------------------
 ## -- 2) Set up aliases --
@@ -162,16 +162,13 @@ alias cp="cp -i"
 set -o noclobber
 
 # 2.2) Listing, directories, and motion
-alias ll="ls -alrtF --color"
+alias ll="ls -alrtFG"
 alias la="ls -A"
 alias l="ls -CF"
-alias dir='ls --color=auto --format=vertical'
-alias vdir='ls --color=auto --format=long'
 alias m='less'
 alias ..='cd ..'
 alias ...='cd ..;cd ..'
 alias md='mkdir'
-alias cl='clear'
 alias du='du -ch --max-depth=1'
 alias treeacl='tree -A -C -L 2'
 
