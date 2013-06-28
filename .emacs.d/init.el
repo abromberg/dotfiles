@@ -27,6 +27,7 @@
 (setq suggest-key-bindings t)
 (setq vc-follow-symlinks t)
 
+
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -63,6 +64,17 @@
 (global-set-key "\M-h" 'backward-delete-word)
 (global-set-key (kbd "C-?") 'help-command)
 
+;; --------------
+;; -- Packages --
+;; --------------
+
+(require 'package)
+(package-initialize)
+(setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
+                         ("marmalade" . "http://marmalade-repo.org/packages/")
+                         ("melpa" . "http://melpa.milkbox.net/packages/")))
+
 ;; ------------------------
 ;; -- Mode configuration --
 ;; ------------------------
+(load-theme 'zenburn t)
