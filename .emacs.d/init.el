@@ -61,6 +61,7 @@
 (global-set-key "\C-h" 'backward-delete-char)
 (global-set-key "\M-d" 'delete-word)
 (global-set-key "\M-h" 'backward-delete-word)
+(global-set-key (kbd "C-?") 'help-command)
 
 ;; ------------------------
 ;; -- Mode configuration --
