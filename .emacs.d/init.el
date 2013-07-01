@@ -97,4 +97,6 @@
 (yas-global-mode 1)
 (require 'tramp)
 (setq tramp-default-method "ssh")
-(setq tramp-shell-prompt-pattern "^[^$>\n]*[#$%>] *\\(\[[0-9;]*[a-zA-Z] *\\)*")
+(setq tramp-shell-prompt-pattern "^[^;$#>]*[;$#>] *")
+
+;;; init.el ends here

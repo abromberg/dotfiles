@@ -149,7 +149,17 @@ fi
 # See: http://www.tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html
 shopt -s histappend
 # See:  http://www.ukuug.org/events/linux2003/papers/bash_tips/
-PS1="\[\033[1;36m\][\u@\h:\w]$\[\033[0m\]"
+case "$TERM" in
+"dumb")
+  PS1="$"
+  ;;
+xterm*|rxvt*|eterm*|screen*)
+  PS1="\[\033[1;36m\][\u@\h:\w]$\[\033[0m\]"
+  ;;
+*)
+  PS1="$"
+  ;;
+esac
  
 ## -----------------------
 ## -- 2) Set up aliases --
