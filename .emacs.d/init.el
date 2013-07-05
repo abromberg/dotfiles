@@ -99,4 +99,19 @@
 (setq tramp-default-method "ssh")
 (setq tramp-shell-prompt-pattern "^[^;$#>]*[;$#>] *")
 
+(add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode)) ; not needed since Emacs 22.2
+(add-hook 'org-mode-hook 'turn-on-font-lock) ; not needed when global-font-lock-mode is on
+(global-set-key "\C-cl" 'org-store-link)
+(global-set-key "\C-ca" 'org-agenda)
+(global-set-key "\C-cb" 'org-iswitchb)
+(setq org-log-done t)
+
+(add-to-list 'load-path "~/.emacs.d/emacs-powerline")
+(require 'powerline)
+(setq powerline-color1 "grey22")
+(setq powerline-color2 "grey40")
+(custom-set-faces
+ '(mode-line ((t (:foreground "#030303" :background "#bdbdbd" :box nil))))
+ '(mode-line-inactive ((t (:foreground "#f9f9f9" :background "#666666" :box nil)))))
+
 ;;; init.el ends here
