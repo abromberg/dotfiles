@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/andy/dotfiles/" . ".emacs.d/")
+ ("/Users/andy/" . "dotfiles/")
+ ("/Users/andy/Documents/" . "blog/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/andy/Documents/business/intel/"
+ "/Users/andy/dotfiles/.emacs.d/"
+ "/andy@192.168.250.102:"
+ "/Users/andy/Documents/blog/"
+ "/Users/andy/Documents/card-scanning/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "report_demo.tex"
+ "report_outline.org"
+ "plan.org"
+ "mckinsey_childrens_health_report.pdf"
+ "init.el"
+ "credit_cards.md"
+ "schwab-data.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/andy/dotfiles/.emacs.d/" (20966 11087 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "linum.el" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/andy/Documents/business/intel/" (20966 11087 0 0) "uv_s_plot.jpeg" "uv_ns_plot.jpeg" "uv_krebsonsecurity.csv" "uv_k_plot.jpeg" "report_outline.org~" "report_outline.org" "report_demo.toc" "report_demo.tex~" "report_demo.tex" "report_demo.pdf" "report_demo.log" "report_demo.aux" "plan.org~" "plan.org" "is_interest.jpeg" "hm_all_uv.jpeg" "hm_3mo_uv.jpeg" "hackmac.org data/" "first_page_rankings.jpeg" "fh_interest.jpeg" "consulting reports/" "auto/" "_region_.tex" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/" (20947 27858 0 0) "personal/" "card-scanning/" "blog/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/" (20947 43052 0 0) "test.org~" "test.org" "circuithouse/" ".#test.org" "#test.org#" "../" "./")
+
+ ("/Users/andy/dotfiles/" (20945 46990 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc" ".bash_profile" "../" "./")
+
+ ("/Users/andy/" (20946 28407 0 0) "README.md" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "BTSync/" "Applications/" ".Trash/" ".ssh/" ".sh_history" ".screenrc" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".bundler/" ".bashrc" ".bash_profile" ".bash_history" ".bash_eternal_history" ".adobe/" "../" "./")
+
+ ("/Users/" (20941 6067 0 0) "Shared/" "Guest/" "andy/" ".localized" "../" "./")
+
+ ("/Users/andy/Documents/blog/" (20944 34099 0 0) "credit_cards.md~" "credit_cards.md" "credit-card-pictures/" ".DS_Store" ".#credit_cards.md" "#credit_cards.md#" "../" "./")
+
+ ("/Users/andy/Documents/card-scanning/" (20944 29629 0 0) "SWipe/" "schwab-data.txt~" "schwab-data.txt" "MagRead/" ".#schwab-data.txt" "#schwab-data.txt#" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
