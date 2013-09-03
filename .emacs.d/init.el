@@ -97,7 +97,7 @@
 (yas-global-mode 1)
 (require 'tramp)
 (setq tramp-default-method "ssh")
-
+(setenv "TMPDIR" "/tmp")
 
 (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode)) ; not needed since Emacs 22.2
 (add-hook 'org-mode-hook 'turn-on-font-lock) ; not needed when global-font-lock-mode is on
@@ -106,8 +106,19 @@
 (global-set-key "\C-cb" 'org-iswitchb)
 (setq org-log-done t)
 
-(add-to-list 'load-path "~/.emacs.d/emacs-powerline")
-(require 'powerline)
+(setq journal-file "~/Dropbox/Personal/journal.org")
+ 
+(defun start-journal-entry ()
+  "Start a new journal entry."
+  (interactive)
+  (find-file journal-file)
+  (goto-char (point-min))
+  (org-insert-heading)
+  (org-insert-time-stamp (current-time) t)
+  (open-line 2)
+  (insert " "))
+ 
+(global-set-key (kbd "C-c j") 'start-journal-entry)
 
 (setq TeX-parse-self t);
 (setq TeX-auto-save t);

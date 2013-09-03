@@ -151,6 +151,7 @@ shopt -s histappend
 # See:  http://www.ukuug.org/events/linux2003/papers/bash_tips/
 
 PS1="\[\033[1;36m\][\u@\h:\w]$\[\033[0m\]"
+[ $TERM == "dumb" ] && PS1='$ '
 
  
 ## -----------------------

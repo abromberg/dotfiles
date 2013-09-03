@@ -2,44 +2,66 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/ssh:andy@ec2-54-245-17-6.us-west-2.compute.amazonaws.com:/home/" . "justin/")
+ ("/Users/andy/Documents/business/" . "moju/")
  ("/Users/andy/dotfiles/" . ".emacs.d/")
- ("/Users/andy/" . "dotfiles/")
- ("/Users/andy/Documents/" . "blog/")
+ ("/Users/andy/" . ".emacs.d/")
+ ("/Users/andy/Documents/" . "business/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/ssh:andy@192.168.250.102:"
+ "/andy@192.168.250.102:"
+ "/ssh:andy@ec2-54-245-17-6.us-west-2.compute.amazonaws.com:"
+ "/andy@ec2-54-245-17-6.us-west-2.compute.amazonaws.com:"
+ "/Users/andy/Documents/business/moju/"
+ "/Users/andy/.emacs.d/"
+ "/Users/andy/Dropbox/Personal/"
+ "/Users/andy/Documents/business/"
  "/Users/andy/Documents/business/intel/"
  "/Users/andy/dotfiles/.emacs.d/"
- "/andy@192.168.250.102:"
  "/Users/andy/Documents/blog/"
  "/Users/andy/Documents/card-scanning/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "generate_urls.py"
+ "dynamodb_test.py"
+ "init.el"
+ "journal.org"
+ "morello_emails.txt"
  "report_demo.tex"
  "report_outline.org"
  "plan.org"
  "mckinsey_childrens_health_report.pdf"
- "init.el"
- "credit_cards.md"
- "schwab-data.txt"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/andy/dotfiles/.emacs.d/" (20966 11087 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "linum.el" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
+ ("/Users/andy/dotfiles/" (21030 24049 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc" ".bash_profile" "../" "./")
 
- ("/Users/andy/Documents/business/intel/" (20966 11087 0 0) "uv_s_plot.jpeg" "uv_ns_plot.jpeg" "uv_krebsonsecurity.csv" "uv_k_plot.jpeg" "report_outline.org~" "report_outline.org" "report_demo.toc" "report_demo.tex~" "report_demo.tex" "report_demo.pdf" "report_demo.log" "report_demo.aux" "plan.org~" "plan.org" "is_interest.jpeg" "hm_all_uv.jpeg" "hm_3mo_uv.jpeg" "hackmac.org data/" "first_page_rankings.jpeg" "fh_interest.jpeg" "consulting reports/" "auto/" "_region_.tex" ".DS_Store" "../" "./")
+ ("/Users/andy/" (21029 25376 0 0) "README.md" "Public/" "Pictures/" "perforce/" "pbcopy" "octave-core" "Music/" "Movies/" "Library/" "libpeerconnection.log" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "chromedriver.log" "BTSync/" "Applications/" ".Trash/" ".subversion/" ".ssh/" ".sh_history" ".screenrc" ".rstudio-desktop/" ".Rhistory" ".RData" ".pip/" ".p4tickets" ".octave_hist" ".netrc" ".matplotlib/" ".lesshst" ".kdiff3rc" ".heroku/" ".gitconfig" ".gem/" ".emacs.d/" ".elinks/" ".DS_Store" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bashrc" ".bash_profile" ".bash_history" ".bash_eternal_history" ".adobe/" "../" "./")
 
- ("/Users/andy/Documents/" (20947 27858 0 0) "personal/" "card-scanning/" "blog/" ".localized" ".DS_Store" "../" "./")
+ ("/Users/andy/dotfiles/.emacs.d/" (21005 16594 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "linum.el" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
 
- ("/Users/andy/Documents/personal/" (20947 43052 0 0) "test.org~" "test.org" "circuithouse/" ".#test.org" "#test.org#" "../" "./")
+ ("/Users/andy/Documents/business/intel/" (21005 16516 0 0) "uv_s_plot.jpeg" "uv_ns_plot.jpeg" "uv_krebsonsecurity.csv" "uv_k_plot.jpeg" "report_outline.org~" "report_outline.org" "report_demo.tex~" "report_demo.tex" "report_demo.synctex.gz(busy)" "report_demo.pdf" "plan.org~" "plan.org" "is_interest.jpeg" "hm_all_uv.jpeg" "hm_3mo_uv.jpeg" "hackmac.org data/" "first_page_rankings.jpeg" "fh_interest.jpeg" "consulting reports/" "auto/" ".DS_Store" "../" "./")
 
- ("/Users/andy/dotfiles/" (20945 46990 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc" ".bash_profile" "../" "./")
+ ("/Users/andy/Dropbox/Personal/" (21005 16593 0 0) "todo.org~" "todo.org" "old_goals" "journal.org~" "journal.org" "goals.org~" "goals.org" "../" "./")
 
- ("/Users/andy/" (20946 28407 0 0) "README.md" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "BTSync/" "Applications/" ".Trash/" ".ssh/" ".sh_history" ".screenrc" ".gitconfig" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".bundler/" ".bashrc" ".bash_profile" ".bash_history" ".bash_eternal_history" ".adobe/" "../" "./")
+ ("/Users/andy/.emacs.d/" (21005 16594 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "linum.el" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/andy/Documents/business/moju/" (21004 451 0 0) "tiltbookipa/" "small_loading.png" "small_loading.jpg" "moju ipa/" "med_loading.png" "med_loading.jpg" "LoginAndSignUpTutorial/" "Learning iOS/" "large_loading.png" "large_loading.jpg" "generate_urls.py~" "generate_urls.py" "dev_certificate.p12" "D6CCC485-5698-422A-9735-6949ACF33F60.mobileprovision" "Anypic/" "adhoc_certificate.p12" "3CA7BE69-6DB1-4F8A-B176-493507AF43F0.mobileprovision" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/business/" (20991 61424 0 0) "moju/" "intel/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Dropbox/" (20955 1046 0 0) "Stock Photos/" "Public/" "Photos/" "Personal/" "new_img/" "Icon
+" "Google Drive.lnk" "dropbox.py" "Coursera/" "Cargas de cámara/" "Business/" "balajian-resources/" "Apps/" ".DS_Store" ".dropbox.cache/" ".docpad.cson" "../" "./")
+
+ ("/Users/andy/Documents/personal/" (20969 51101 0 0) "projects/" "pdes/" "circuithouse/" "blog/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/" (20955 46039 0 0) "personal/" "Microsoft User Data/" "business/" ".localized" ".DS_Store" "../" "./")
 
  ("/Users/" (20941 6067 0 0) "Shared/" "Guest/" "andy/" ".localized" "../" "./")
 
