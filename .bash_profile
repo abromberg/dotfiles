@@ -64,9 +64,4 @@ export EC2_PRIVATE_KEY=`ls $EC2_HOME/pk-*.pem`
 export EC2_CERT=`ls $EC2_HOME/cert-*.pem`
 export JAVA_HOME=/usr/
 
-#and setup stormacq scripts
-export AWS_ACCESS_KEY='AKIAIBIWYXOR3D5BYVTA'
-export AWS_SECRET_KEY='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'
-export EC2_URL=http://ec2.us-west-2.amazonaws.com
-
 alias emacs="/usr/local/Cellar/emacs/HEAD/Emacs.app/Contents/MacOS/Emacs -nw"
