@@ -50,3 +50,23 @@ export PATH=/usr/bin:$PATH
 export PATH=/usr/local/bin:$PATH
 export PATH=/usr/local/sbin:$PATH
 export PATH=/usr/local/heroku/bin:$PATH # Heroku: https://toolbelt.heroku.com/standalone
+export PATH=/usr/local/share/npm/bin:$PATH
+
+[[ -s /Users/andy/.nvm/nvm.sh ]] && . /Users/andy/.nvm/nvm.sh # This loads NVM
+
+# added by Anaconda 1.8.0 installer
+export PATH="/Users/andy/anaconda/bin:$PATH"
+
+# Setup Amazon EC2 Command-Line Tools
+export EC2_HOME=~/.ec2
+export PATH=$PATH:$EC2_HOME/bin
+export EC2_PRIVATE_KEY=`ls $EC2_HOME/pk-*.pem`
+export EC2_CERT=`ls $EC2_HOME/cert-*.pem`
+export JAVA_HOME=/usr/
+
+#and setup stormacq scripts
+export AWS_ACCESS_KEY='AKIAIBIWYXOR3D5BYVTA'
+export AWS_SECRET_KEY='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'
+export EC2_URL=http://ec2.us-west-2.amazonaws.com
+
+alias emacs="/usr/local/Cellar/emacs/HEAD/Emacs.app/Contents/MacOS/Emacs -nw"

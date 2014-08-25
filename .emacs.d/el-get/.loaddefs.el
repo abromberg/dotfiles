@@ -125,18 +125,42 @@ what jedi can do.
 
 ;;;***
 
-;;;### (autoloads nil nil ("auto-complete/auto-complete-config.el"
-;;;;;;  "auto-complete/auto-complete-pkg.el" "ctable/ctable.el" "ctable/test-ctable.el"
-;;;;;;  "deferred/concurrent-sample.el" "deferred/concurrent.el"
-;;;;;;  "deferred/deferred-samples.el" "deferred/deferred.el" "deferred/test-concurrent.el"
-;;;;;;  "deferred/test-deferred.el" "el-get/el-get-autoloads.el"
-;;;;;;  "el-get/el-get-build.el" "el-get/el-get-byte-compile.el"
+;;;### (autoloads nil nil ("../../../.emacs.d/el-get/haskell-mode/ghc-core.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-align-imports.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-bot.el" "../../../.emacs.d/el-get/haskell-mode/haskell-c.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-cabal.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-checkers.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-compat.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-compile.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-decl-scan.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-doc.el" "../../../.emacs.d/el-get/haskell-mode/haskell-font-lock.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-indent.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-indentation.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-interactive-mode.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-menu.el" "../../../.emacs.d/el-get/haskell-mode/haskell-mode.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-move-nested.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-navigate-imports.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-package.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-presentation-mode.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-process.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-session.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-show.el" "../../../.emacs.d/el-get/haskell-mode/haskell-simple-indent.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-sort-imports.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-str.el" "../../../.emacs.d/el-get/haskell-mode/haskell-string.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-unicode-input-method.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-utils.el"
+;;;;;;  "../../../.emacs.d/el-get/haskell-mode/haskell-yas.el" "../../../.emacs.d/el-get/haskell-mode/inf-haskell.el"
+;;;;;;  "auto-complete/auto-complete-config.el" "auto-complete/auto-complete-pkg.el"
+;;;;;;  "ctable/ctable.el" "ctable/test-ctable.el" "deferred/concurrent-sample.el"
+;;;;;;  "deferred/concurrent.el" "deferred/deferred-samples.el" "deferred/deferred.el"
+;;;;;;  "deferred/test-concurrent.el" "deferred/test-deferred.el"
+;;;;;;  "el-get/el-get-autoloads.el" "el-get/el-get-build.el" "el-get/el-get-byte-compile.el"
 ;;;;;;  "el-get/el-get-core.el" "el-get/el-get-custom.el" "el-get/el-get-dependencies.el"
 ;;;;;;  "el-get/el-get-install.el" "el-get/el-get-methods.el" "el-get/el-get-notify.el"
 ;;;;;;  "el-get/el-get-recipes.el" "el-get/el-get-status.el" "epc/epc.el"
 ;;;;;;  "epc/epcs.el" "epc/test-epc.el" "fuzzy/fuzzy.el" "jedi/jedi-pkg.el"
 ;;;;;;  "jedi/test-jedi.el" "jedi/tryout-jedi.el" "popup/popup.el")
-;;;;;;  (20941 9999 803274 0))
+;;;;;;  (21239 65450 870541 0))
 
 ;;;***
 

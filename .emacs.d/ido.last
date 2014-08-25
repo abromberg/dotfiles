@@ -2,8 +2,17 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/ssh:andy@ec2-54-245-17-6.us-west-2.compute.amazonaws.com:/home/" . "justin/")
- ("/Users/andy/Documents/business/" . "moju/")
+ ("/Users/andy/Documents/business/postoffice/code/user_api/app/" . "models/")
+ ("/Users/andy/Documents/business/postoffice/code/" . "website_v1/")
+ ("/ssh:ubuntu@54.84.75.105:/home/ubuntu/" . "post-office/")
+ ("/ssh:ubuntu@54.84.75.105:/home/" . "ubuntu/")
+ ("/ssh:ubuntu@54.84.75.105:/" . "home/")
+ ("/Users/" . "andy/")
+ ("/Users/andy/Documents/personal/blog/" . "credit-card/")
+ ("/Users/andy/Documents/personal/" . "oneoff/")
+ ("/Users/andy/Documents/school/sbg/articles/" . "capital_levies_long/")
+ ("/Users/andy/Dropbox/" . "Personal/")
+ ("/Users/andy/Documents/business/" . "ggvc/")
  ("/Users/andy/dotfiles/" . ".emacs.d/")
  ("/Users/andy/" . ".emacs.d/")
  ("/Users/andy/Documents/" . "business/")
@@ -11,57 +20,144 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/ssh:andy@192.168.250.102:"
- "/andy@192.168.250.102:"
- "/ssh:andy@ec2-54-245-17-6.us-west-2.compute.amazonaws.com:"
- "/andy@ec2-54-245-17-6.us-west-2.compute.amazonaws.com:"
- "/Users/andy/Documents/business/moju/"
+ "/Users/andy/Documents/business/postoffice/code/user_api/"
+ "/Users/andy/Documents/business/postoffice/code/website_v2/"
+ "/Users/andy/Documents/business/postoffice/code/user_api/app/models/"
+ "/Users/andy/Documents/business/postoffice/code/website_v1/"
  "/Users/andy/.emacs.d/"
+ "/Users/andy/Documents/personal/projects/hack_nk/"
+ "/Users/andy/"
+ "/ssh:ubuntu@54.84.75.105:/home/ubuntu/"
+ "/ssh:ubuntu@54.84.75.105:/home/ubuntu/post-office/"
+ "/ssh:ubuntu@54.84.75.105:"
+ "/ssh:54.84.75.105:"
  "/Users/andy/Dropbox/Personal/"
+ "/Users/andy/Documents/business/political/cruz-tech/"
+ "/Users/andy/Documents/school/sophomore/winter/complit181/"
+ "/Users/andy/Documents/school/sophomore/winter/math104/"
+ "/Users/andy/Documents/personal/projects/network-analysis/"
+ "/Users/andy/Documents/business/ggvc/"
+ "/Users/andy/Documents/personal/projects/text-analysis/"
+ "/Users/andy/Documents/school/sophomore/winter/math131p/"
+ "/Users/andy/Documents/personal/blog/credit-card/"
+ "/Users/andy/Documents/personal/projects/project-euler/"
+ "/Users/andy/Documents/school/sophomore/fall/cs229/bullshit-229-project/icml2012stylefiles/poster/"
+ "/Users/andy/Documents/school/sophomore/fall/cs229/bullshit-229-project/icml2012stylefiles/"
+ "/Users/andy/Documents/personal/oneoff/"
+ "/Volumes/Macintosh HD/Applications/VLC.app/Contents/MacOS/share/lua/sd/"
+ "/Users/andy/Documents/school/sbg/articles/capital_levies_long/"
+ "/Users/andy/Documents/school/sbg/articles/capital_levies_short/"
+ "/Users/andy/Documents/school/sbg/articles/"
+ "/Users/andy/Downloads/cryptonote-cli/"
+ "/Users/andy/Documents/personal/projects/microcontroller-intro/led-software/firmware/"
+ "/Users/andy/Documents/personal/blog/fourier/"
+ "/Users/andy/Documents/business/moju/"
  "/Users/andy/Documents/business/"
  "/Users/andy/Documents/business/intel/"
  "/Users/andy/dotfiles/.emacs.d/"
+ "/andy@192.168.250.102:"
  "/Users/andy/Documents/blog/"
  "/Users/andy/Documents/card-scanning/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "generate_urls.py"
- "dynamodb_test.py"
+ "README.md"
+ "jobs.html"
+ "server.js"
+ "user.js"
+ "index.html"
+ "tiny_index.html"
  "init.el"
- "journal.org"
- "morello_emails.txt"
- "report_demo.tex"
- "report_outline.org"
- "plan.org"
- "mckinsey_childrens_health_report.pdf"
+ "snake.bat"
+ "snake_game.bat"
+ "partition.bat"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/andy/dotfiles/" (21030 24049 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc" ".bash_profile" "../" "./")
+ ("/Users/andy/Documents/business/postoffice/code/user_api/" (21498 42764 0 0) "server.js" "routes/" "README.md~" "README.md" "package.json~" "package.json" "node_modules/" "data/" "app/" ".gitignore~" ".gitignore" ".git/" "../" "./")
 
- ("/Users/andy/" (21029 25376 0 0) "README.md" "Public/" "Pictures/" "perforce/" "pbcopy" "octave-core" "Music/" "Movies/" "Library/" "libpeerconnection.log" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "Desktop/" "chromedriver.log" "BTSync/" "Applications/" ".Trash/" ".subversion/" ".ssh/" ".sh_history" ".screenrc" ".rstudio-desktop/" ".Rhistory" ".RData" ".pip/" ".p4tickets" ".octave_hist" ".netrc" ".matplotlib/" ".lesshst" ".kdiff3rc" ".heroku/" ".gitconfig" ".gem/" ".emacs.d/" ".elinks/" ".DS_Store" ".dropbox/" ".cups/" ".CFUserTextEncoding" ".cache/" ".bundler/" ".bashrc" ".bash_profile" ".bash_history" ".bash_eternal_history" ".adobe/" "../" "./")
+ ("/Users/andy/Documents/business/postoffice/code/website_v2/" (21498 33226 0 0) "sidewire.png" "jobs.html~" "jobs.html" "individual/" "index.html~" "index.html" "Gotham-XLightIta.otf" "Gotham-XLight.otf" "Gotham-UltraIta.otf" "Gotham-Ultra.otf" "Gotham-ThinIta.otf" "Gotham-Thin.otf" "Gotham-MediumIta.otf" "Gotham-Medium.otf" "Gotham-LightIta.otf" "Gotham-Light.otf" "Gotham-BookIta.otf" "Gotham-Book.otf" "Gotham-BoldIta.otf" "Gotham-Bold.otf" "Gotham-BlackIta.otf" "Gotham-Black.otf" "blurred_background.png" "blue_bar.png" ".#index.html" "../" "./")
 
- ("/Users/andy/dotfiles/.emacs.d/" (21005 16594 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "linum.el" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
+ ("/Users/andy/Documents/business/postoffice/code/user_api/routes/" (21498 5546 0 0) "user.js" "../" "./")
+
+ ("/Users/andy/dotfiles/.emacs.d/" (21498 4469 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "markdown-mode.el" "linum.el" "init.el~" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "edit-server.el" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/andy/" (21498 4468 0 0) "wo.org~" "wo.org" "vpn-ec2.id" "VirtualBox VMs/" "ubuntu@ec2-54-226-81-128.compute-1.amazonaws.com/" "todo.org~" "todo.org_archive~" "todo.org_archive" "todo.org" "README.md" "Public/" "Pictures/" "perforce/" "people.org~" "people.org" "octave-core" "node_modules/" "nltk_data/" "Music/" "Movies/" "Library/" "libpeerconnection.log" "Dropbox/" "Downloads/" "dotfiles/" "Documents/" "details.org~" "details.org" "Desktop/" "Calibre Library/" "BTSync/" "bin" "Applications/" "anaconda/" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".sqlite_history" ".sh_history" ".screenrc" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".pip/" ".p4tickets" ".octave_hist" ".nvm/" ".npm/" ".node-gyp/" ".netrc" ".mongorc.js" ".matplotlib/" ".lesshst" ".kdiff3rc" ".ipython/" ".heroku/" ".gitconfig" ".ghc/" ".gervill/" ".gem/" ".fontconfig/" ".enounce2/" ".emacs.d/" ".emacs-theme" ".elinks/" ".electrum/" ".ec2/" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".continuum/" ".config/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bundler/" ".bashrc" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".bash_eternal_history" ".adobe/" ".750words/" ".#todo.org" ".#diary" "#todo.org_archive#" "#todo.org#" "#diary#" "../" "./")
+
+ ("/Users/andy/.emacs.d/" (21498 4469 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "markdown-mode.el" "linum.el" "init.el~" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "edit-server.el" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/andy/Documents/business/postoffice/code/user_api/app/models/" (21497 27753 0 0) "user.js" "../" "./")
+
+ ("/Users/andy/Documents/business/postoffice/code/user_api/app/" (21497 21761 0 0) "models/" "../" "./")
+
+ ("/Users/andy/Documents/business/postoffice/code/website_v1/" (21474 28041 0 0) "white_yellow_logo.png" "white_yellow_logo.gif" "Untitled.mp4" "tiny_index.html~" "tiny_index.html" "test_big.gif" "index.html~" "index.html" "images/" "fullclip.mp4" "cropped_color_logo.psd" "clip4.mov" "clip3.mp4" "clip3.mov" "clip2.mp4" "clip1.mp4" "blur_clip.mov" "black_yellow_white_logo.psd" "black_yellow_white_logo.gif" "black_yellow_logo.gif" "black-yellow-png.png" "big_test_2.gif" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/business/postoffice/code/" (21490 28168 0 0) "will-spielberg/" "website_v2/" "website_v1/" "vpnnotes.org~" "vpnnotes.org" "test12.pcap" "test.pcap" "social.pcap" "second_homepage.png" "push_urls_wsj.sh" "push_urls_temp.py~" "push_urls_temp.py" "PostOfficeDemo/" "postoffice_base.mobileconfig" "post-office-wireshark/" "old_desktop_config/" "my.pcap" "index.html~" "index.html" "first_homepage.png" "dave-gallagher/" "curltest.sh~" "curltest.sh" "cookietest.pcap" "capfiltertest.pcap" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/projects/hack_nk/" (21470 33725 0 0) "test.bat~" "snake_game.bat~" "snake_game.bat" "snake.sh~" "snake.sh" "snake.bat~" "snake.bat" "presentation_data/" ".gitignore~" ".gitignore" ".git/" ".DS_Store" "#partition.bat#" "../" "./")
+
+ ("/Users/andy/Documents/business/" (21344 3873 0 0) "sketch/" "sbh/" "recruiting/" "postoffice/" "political/" "moju/" "intel/" "ggvc/" ".DS_Store" "../" "./")
+
+ ("/Volumes/Macintosh HD/Applications/VLC.app/Contents/MacOS/share/lua/sd/" (21332 6191 0 0) "metachannels.luac" "jamendo.luac" "icecast.luac" "hockey.luac" "hockey.lua" "fmc.luac" "../" "./")
+
+ ("/Users/andy/Documents/personal/oneoff/" (21415 33603 0 0) "Untitled0.ipynb" "The_Berkeley_Review_MCAT__Home_Study_-_2011_.rar" "test.pcap" "test.html~" "test.html" "sympy_int_steps.py" "switched_heads.psd" "secret" "Screen Shot 2014-06-02 at 1.07.23 PM.png" "Screen Shot 2013-11-11 at 5.05.03 PM (2).png" "reecho.py~" "reecho.py" "PlatoRepX.pdf" "orgasms-fucking05 copy.psd" "old_brandan.jpg" "nk_test_5.jpg" "nk_test_4.jpg" "nk_test_3.pdf" "nk_test_2.pdf" "nk_test.jpg" "niuniu_invoice.pdf" "niuniu_invoice.pages" "newcard.pdf" "newcard.doc" "mikesgourmet.psd" "mikesgourmet.gif" "menu_flymake.log" "menu.tex~" "menu.tex" "menu.pdf" "menu.out" "menu.log" "menu.aux" "max_old_crop2.jpg" "max_old_crop.jpg" "max_new_crop2.jpg" "max_new_crop.jpg" "max_morph_movie_1.m4v" "max_morph_2.mov" "max_morph_1.mov" "love-actually-poster.jpg" "love-actually-poster (1).jpg" "love-actually-comparison.psd" "love-actually-comparison.jpg" "lonesoldier.txt" "lighttabletest.pyc" "lighttabletest.py" "license.jpeg" "license 1.jpeg" "jizzus.gif" "illinois_unpaid_tolls.pdf" "Home-Alone-Daniel.psd" "Home-Alone-Daniel.jpg" "home-alone-daniel-comparison.psd" "home-alone-daniel-comparison.jpg" "hockey.luac" "firstecho.sh~" "firstecho.sh" "Examkrackers MCAT Complete Study Package/" "EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/" "dempsey_jorts.jpg" "daniel_twilight_poster.jpg.pdf" "daniel_twilight_comparison.psd" "daniel_twilight_comparison.jpg" "daniel_twilight.psd" "daniel_twilight.jpg" "daniel_face_posterpdf.pdf" "daniel_face_poster.jpg.pdf" "daniel_face_plaque.pages" "daniel_face.jpg" "daniel_blackswan_comparison.psd" "daniel_blackswan_comparison.jpg" "daniel_blackswan.psd" "daniel_andy_love_actually.psd" "daniel-40yo.psd" "daniel-40yo.jpg" "daniel-40yo-comparison.psd" "daniel-40yo-comparison.jpg" "Daniel Wolfson_011413_JT_3929.jpg" "camping_map.html" "cabo_money.xlsx" "btcgenome.ipynb" "brandan_old_crop.jpg" "brandan_new_crop.jpg" "brandan_morph_clip_1.mov" "brandan_morph.mov" "brandan.psd" "brandan.jpg" "blackswan.jpg" "blackswan copy.jpg" "backus-english.psd" "backus-english.jpg" "backus-english-comparison.psd" "backus-english-comparison.jpg" "auto/" "AndyBromberg_GGV.pdf" "AndyBromberg_FounderOrg_Agreement.pdf" "andy_noah_merged_comparison.psd" "andy_noah_merged_comparison.jpg" "andy_noah_merged.psd" "andy_noah_merged.jpg" "aepireview_feedback.png" "2013_signed_tax_form.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/business/ggvc/" (21336 11616 0 0) "edtech.org~" "edtech.org" "competitive_programming_info.xlsx" "#edtech.org#" "#edtech#" "../" "./")
+
+ ("/Users/andy/Documents/personal/projects/network-analysis/" (21319 22345 0 0) "test.py~" "test.py" "second_plot.png" "old_110701307803962595019_results.txt" "gplus/" "first_plot.png" "110701307803962595019_results.txt" ".gitignore~" ".gitignore" ".git/" ".DS_Store" "#110701307803962595019_results.txt#" "../" "./")
+
+ ("/Users/andy/Dropbox/Personal/" (21324 4398 0 0) "todo.org~" "todo.org" "old_goals" "journal.org~" "journal.org" "goals.org~" "goals.org" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/projects/project-euler/" (21266 29383 0 0) "summation_of_primes.py~" "summation_of_primes.py" "sum_square_difference.py~" "sum_square_difference.py" "special_pythagorean_triplet.py~" "special_pythagorean_triplet.py" "smallest_multiple.py~" "smallest_multiple.py" "largest_product_in_a_series.py" "largest_prime_factor.py" "largest_palindrome_product.py~" "largest_palindrome_product.py" "highly_divisible_triangular_number.py~" "highly_divisible_triangular_number.py" "even_fibonacci_numbers.py~" "even_fibonacci_numbers.py" "10001st_prime.py~" "10001st_prime.py" "../" "./")
+
+ ("/Users/andy/Documents/school/sophomore/winter/math131p/" (21306 65093 0 0) "Notes.log" "Notes.cls~" "Notes.cls" "note_template.tex~" "note_template.tex" "note_template.pdf" "note_template.out" "note_template.log" "note_template.aux" "lec5.toc" "lec5.tex~" "lec5.tex" "lec5.pdf" "lec5.out" "lec5.log" "lec5.aux" "lec4.toc" "lec4.tex~" "lec4.tex" "lec4.pdf" "lec4.out" "lec4.log" "lec4.aux" "lec3.toc" "lec3.tex~" "lec3.tex" "lec3.pdf" "lec3.out" "lec3.log" "lec3.aux" "lec2.toc" "lec2.tex~" "lec2.tex" "lec2.pdf" "lec2.out" "lec2.log" "lec2.aux" "lec1.toc" "lec1.tex~" "lec1.tex" "lec1.pdf" "lec1.out" "lec1.log" "lec1.aux" "commons.sty" "auto/" "../" "./")
+
+ ("/Users/andy/Documents/school/sophomore/winter/math104/" (21291 51494 0 0) "ps7.tex~" "ps7.tex" "ps7.pdf" "ps7.log" "ps7.aux" "ps7 copy.pdf" "ps5.tex~" "ps5.tex" "ps5.pdf" "ps5.log" "ps5.aux" "ps4.tex~" "ps4.tex" "ps4.pdf" "ps4.log" "ps4.aux" "ps3.tex~" "ps3.tex" "ps3.pdf" "ps3.log" "ps3.aux" "ps2.tex~" "ps2.tex" "ps2.pdf" "ps2.log" "ps2.aux" "ps1.tex~" "ps1.tex" "ps1.pdf" "ps1.log" "ps1.aux" "octave-core" "Lloyd N. Trefethen, David Bau III-Numerical Linear Algebra-SIAM_ Society for Industrial and Applied Mathematics (1997).pdf" "hw-template_flymake.log" "hw-template.tex~" "hw-template.tex" "hw-template.pdf" "hw-template.log" "hw-template.aux" "flycheck-ps5.tex" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/school/sophomore/winter/complit181/" (21291 13814 0 0) "firstpaper_outline.org" "firstpaper.bib~" "firstpaper.bib" "finalpaper.bib~" "finalpaper.bib" "essay_2/" "auto/" "argumentreconstruction.bib~" "argumentreconstruction.bib" "AndyBromberg_FirstPaper.tex~" "AndyBromberg_FirstPaper.tex" "AndyBromberg_FirstPaper.pdf" "AndyBromberg_FirstPaper.log" "AndyBromberg_FirstPaper.blg" "AndyBromberg_FirstPaper.bbl" "AndyBromberg_FirstPaper.aux" "AndyBromberg_FinalPaper.tex~" "AndyBromberg_FinalPaper.tex" "AndyBromberg_FinalPaper.pdf" "AndyBromberg_FinalPaper.log" "AndyBromberg_FinalPaper.blg" "AndyBromberg_FinalPaper.bbl" "AndyBromberg_FinalPaper.aux" "AndyBromberg_ArgumentReconstruction.tex~" "AndyBromberg_ArgumentReconstruction.tex" "AndyBromberg_ArgumentReconstruction.pdf" "AndyBromberg_ArgumentReconstruction.log" "AndyBromberg_ArgumentReconstruction.blg" "AndyBromberg_ArgumentReconstruction.bbl" "AndyBromberg_ArgumentReconstruction.aux" "../" "./")
+
+ ("/Users/andy/Documents/business/political/cruz-tech/" (21294 7745 0 0) "Vice-President-Seal.svg" "Vice-President-Seal.pdf" "texMemo.log" "texMemo.cls~" "texMemo.cls" "texMemo-example2.tex" "texMemo-example2.pdf" "texMemo-example1.tex" "texMemo-example1.pdf" "Microsoft-Logo.svg" "Microsoft-Logo.pdf" "Lyndon-Johnson-Signature.JPG" "ElectionTechnologyMemo.pdf" "cruz-tech-memo.tex~" "cruz-tech-memo.tex" "cruz-tech-memo.pdf" "cruz-tech-memo.log" "cruz-tech-memo.aux" "auto/" "../" "./")
+
+ ("/Users/andy/Dropbox/" (21305 57488 0 0) "Stock Photos/" "Public/" "Photos/" "Personal/" "old camera/" "new_img/" "Icon
+" "Google Drive.lnk" "For Andy/" "dropbox.py" "Coursera/" "Cargas de cámara/" "Calculus - Early Transcendentals 7th Ed - Edwards & Penney.pdf" "Business/" "balajian-resources/" "Apps/" ".DS_Store" ".dropbox.cache/" ".docpad.cson" "../" "./")
+
+ ("/Users/andy/Documents/school/sbg/articles/capital_levies_long/" (21234 50880 0 0) "capital_levies.tex" "capital_levies.pdf" "capital_levies.log" "capital_levies.blg" "capital_levies.bib" "capital_levies.bbl" "capital_levies.aux" "build.sh" "auto/" "../" "./")
+
+ ("/Users/andy/Documents/personal/projects/text-analysis/" (21244 64014 0 0) "TODO.md~" "TODO.md" "README.md~" "README.md" "db_util.py~" "db_util.pyc" "db_util.py" "createTermSentences.pyc" "createTermSentences.py" "create_test_db.py~" "create_test_db.pyc" "create_test_db.py" "connections2groups.py" "build.sh~" "build.sh" "body2entities.pyc" "body2entities.py" ".gitignore" ".git/" "#TODO.md#" "#body2entities.py#" "../" "./")
+
+ ("/Users/andy/Documents/" (21197 43376 0 0) "school/" "personal/" "Microsoft User Data/" "Digital Editions/" "business/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/blog/credit-card/" (21049 59403 0 0) "credit_cards.md~" "credit_cards.md" "credit-card-pictures/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/blog/" (21194 25309 0 0) "svm/" "post-ideas.org" "microcontrollers/" "fourier/" "credit-card/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/blog/svm/" (21194 25339 0 0) "svm-conceptual" "../" "./")
+
+ ("/Users/andy/Documents/school/sophomore/fall/cs229/bullshit-229-project/icml2012stylefiles/" (21164 2653 0 0) "precision-recall-accuracy.jpg" "poster/" "natbib.sty" "icml_numpapers.pdf" "icml_numpapers.eps" "icml2012.sty~" "icml2012.sty" "icml2012.doc" "icml2012.bst" "fancyhdr.sty" "example_paper_initial_submission.pdf" "example_paper_accepted.pdf" "example_paper.tex~" "example_paper.tex" "example_paper.pdf" "example_paper.out" "example_paper.log" "example_paper.blg" "example_paper.bib~" "example_paper.bib" "example_paper.bbl" "example_paper.aux" "BrombergShutzberg-PredictionofUserIntenttoReplytoIncomingEmails.pdf" "auto/" "algorithmic.sty" "algorithm.sty" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/school/sophomore/fall/cs229/bullshit-229-project/icml2012stylefiles/poster/" (21161 15002 0 0) "results_flymake.log" "results.tex~" "results.tex" "results.pdf" "results.log" "results.aux" "dataset_flymake.log" "dataset.tex~" "dataset.tex" "dataset.pdf" "dataset.log" "dataset.aux" "cover_flymake.log" "cover.tex~" "cover.tex" "cover.pdf" "cover.log" "cover.aux" "auto/" "algo2.tex~" "algo2.tex" "algo2.pdf" "algo2.log" "algo2.aux" "algo1.tex~" "algo1.tex" "algo1.pdf" "algo1.log" "algo1.aux" "../" "./")
+
+ ("/Users/andy/Documents/business/moju/" (21034 23506 0 0) "tiltbookipa/" "tilt.js" "style.css~" "style.css" "small_loading.png" "small_loading.jpg" "newtiltbookipa/" "moju ipa/" "mobile.css~" "mobile.css" "med_loading.png" "med_loading.jpg" "LoginAndSignUpTutorial/" "Learning iOS/" "large_loading.png" "large_loading.jpg" "invoices/" "index.html" "html5_viewer/" "generate_urls.py~" "generate_urls.py" "facebook-ios-sdk/" "error.html" "dynamodb_create.py~" "dynamodb_create.py" "dev_certificate.p12" "D6CCC485-5698-422A-9735-6949ACF33F60.mobileprovision" "Anypic/" "adhoc_certificate.p12" "3CA7BE69-6DB1-4F8A-B176-493507AF43F0.mobileprovision" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/personal/projects/microcontroller-intro/led-software/firmware/" (21027 65200 0 0) "util.h~" "util.h" "util.c~" "util.c" "Makefile~" "Makefile" "main.o" "main.hex" "main.elf" "main.c~" "main.c" "../" "./")
+
+ ("/Users/andy/Downloads/cryptonote-cli/" (21102 62051 0 0) "README.md" "LICENSE" "cryptonote.coffee" "cryptonote.alfredworkflow" "cryptonote" ".git/" "../" "./")
+
+ ("/Users/andy/Documents/school/sbg/articles/capital_levies_short/" (21140 718 0 0) "todo.org" "capital_levies_short.tex" "capital_levies_short.pdf" "capital_levies_short.log" "capital_levies_short.aux" "build.sh~" "build.sh" "auto/" "../" "./")
+
+ ("/Users/andy/Documents/personal/" (20994 54642 0 0) "projects/" "pdes/" "oneoff/" "circuithouse/" "blog/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/school/sbg/articles/" (21139 56025 0 0) "sources/" "README.md" "capital_levies~" "capital_levies_short.tex~" "capital_levies_short.pdf" "capital_levies_short.log" "capital_levies_short.aux" "capital_levies_short/" "capital_levies_long/" "capital_levies.log" "capital_levies.blg" "capital_levies.bbl" "capital_levies.aux" "auto/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/andy/Documents/business/recruiting/" (21088 11154 0 0) "new_students.py~" "new_students.py" "../" "./")
+
+ ("/Users/andy/Documents/personal/blog/fourier/" (21027 57509 0 0) "outline.org~" "outline.org" "dft-explanation~" "dft-explanation" "../" "./")
 
  ("/Users/andy/Documents/business/intel/" (21005 16516 0 0) "uv_s_plot.jpeg" "uv_ns_plot.jpeg" "uv_krebsonsecurity.csv" "uv_k_plot.jpeg" "report_outline.org~" "report_outline.org" "report_demo.tex~" "report_demo.tex" "report_demo.synctex.gz(busy)" "report_demo.pdf" "plan.org~" "plan.org" "is_interest.jpeg" "hm_all_uv.jpeg" "hm_3mo_uv.jpeg" "hackmac.org data/" "first_page_rankings.jpeg" "fh_interest.jpeg" "consulting reports/" "auto/" ".DS_Store" "../" "./")
 
- ("/Users/andy/Dropbox/Personal/" (21005 16593 0 0) "todo.org~" "todo.org" "old_goals" "journal.org~" "journal.org" "goals.org~" "goals.org" "../" "./")
-
- ("/Users/andy/.emacs.d/" (21005 16594 0 0) "whitespace.el" "tramp" "smooth-scrolling.el" "linum.el" "init.el" "ido.last~" "ido.last" "idlwave/" "emacs-powerline/" "elpa/" "el-get/" "defuns-config.el" "column-marker.el" "auto-save-list/" "ac-comphist.dat" "../" "./")
-
- ("/Users/andy/Documents/business/moju/" (21004 451 0 0) "tiltbookipa/" "small_loading.png" "small_loading.jpg" "moju ipa/" "med_loading.png" "med_loading.jpg" "LoginAndSignUpTutorial/" "Learning iOS/" "large_loading.png" "large_loading.jpg" "generate_urls.py~" "generate_urls.py" "dev_certificate.p12" "D6CCC485-5698-422A-9735-6949ACF33F60.mobileprovision" "Anypic/" "adhoc_certificate.p12" "3CA7BE69-6DB1-4F8A-B176-493507AF43F0.mobileprovision" ".DS_Store" "../" "./")
-
- ("/Users/andy/Documents/business/" (20991 61424 0 0) "moju/" "intel/" ".DS_Store" "../" "./")
-
- ("/Users/andy/Dropbox/" (20955 1046 0 0) "Stock Photos/" "Public/" "Photos/" "Personal/" "new_img/" "Icon
-" "Google Drive.lnk" "dropbox.py" "Coursera/" "Cargas de cámara/" "Business/" "balajian-resources/" "Apps/" ".DS_Store" ".dropbox.cache/" ".docpad.cson" "../" "./")
-
- ("/Users/andy/Documents/personal/" (20969 51101 0 0) "projects/" "pdes/" "circuithouse/" "blog/" ".DS_Store" "../" "./")
-
- ("/Users/andy/Documents/" (20955 46039 0 0) "personal/" "Microsoft User Data/" "business/" ".localized" ".DS_Store" "../" "./")
+ ("/Users/andy/dotfiles/" (20945 46990 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc" ".bash_profile" "../" "./")
 
  ("/Users/" (20941 6067 0 0) "Shared/" "Guest/" "andy/" ".localized" "../" "./")
 
